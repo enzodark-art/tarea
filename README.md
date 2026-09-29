@@ -10,4 +10,11 @@
 
   <img width="751" height="538" alt="captura 4" src="https://github.com/user-attachments/assets/7dc50693-6296-4b4e-b4ee-f1c7b97b4888" />
 
+  Que se hizo:
+  se procedio a la creacion de una cuenta local con permisos limitados en la consola con el comando net user Usuario de prueba
+
+  Importancia para la seguridad:
+  si descargas un malware o un proceso no confiable este mismo tendra permisos limitados y no podra instalarse por completo ni dañar el sistema operativo
+
+  
   
